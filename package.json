@@ -1,0 +1,11 @@
+{
+  "name": "testDoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Pinkagit/testDoc.git",
+  "author": "wuquan <wuquan.wang@yo-star.com>",
+  "license": "MIT",
+  "scripts": {
+    "doc": "docsify serve docs"
+  }
+}
