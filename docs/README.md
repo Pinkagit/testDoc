@@ -16,7 +16,7 @@ console.log('hello world!')
 
 # 1号标题--2
 
-<center><img src="/_media/1.jpg" width="200"/></center>
+<center><img src="./_media/1.jpg" width="200"/></center>
 
 # 1号标题--3
 
